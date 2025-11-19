@@ -1,6 +1,10 @@
 title: "Oh To Be Software"
 description: "Oh to be a monkey… writing great code."
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
+remote_theme: pages-themes/dinky@v0.2.0
+# plugins:
+# - jekyll-remote-theme # add this line to the plugins list if you already have one
+
 markdown: kramdown
 
 url: "https://oh2bamonkey.com"
